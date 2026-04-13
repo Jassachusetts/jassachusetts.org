@@ -34,7 +34,7 @@ jobs:
       - uses: actions/configure-pages@v5
       
       - name: build
-        run: mkdir _site; chmod +x ./build.sh; ./build.sh >> _site/index.html
+        run: mkdir _site; chmod +x ./build.sh; ./build.sh
 
       - name: upload artifact
         uses: actions/upload-pages-artifact@v3
