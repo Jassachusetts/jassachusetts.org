@@ -18,6 +18,7 @@ gemtext_to_xhtml() {
 	done< $1
 	
 	echo "\t<link rel=\"stylesheet\" href=\"style.css\"/>
+	<link rel=\"stylesheet\" href=\"fonts.css\"/>
 </head>
 <body>"
 	while IFS= read -r line; do
