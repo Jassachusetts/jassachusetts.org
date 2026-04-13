@@ -20,6 +20,7 @@ gemtext_to_xhtml() {
 	echo "\t<link rel=\"stylesheet\" href=\"style.css\"/>
 	<link rel=\"stylesheet\" href=\"fonts.css\"/>
 	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>
+	<link rel=\"icon\" type=\"image/x-icon\" href=\"/images/favicon.ico\"/>
 </head>
 <body>"
 	while IFS= read -r line; do
