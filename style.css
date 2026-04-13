@@ -1,0 +1,17 @@
+body {
+  background-color: #dfcbaa;
+  font-size: 150%;
+  font-variant-numeric: oldstyle-nums;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  font-weight: medium;
+  font-feature-settings: 'lnum' 1, 'case' 1, 'cpsp' 1;
+  font-family: Jassachusetts, Georgia, serif;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 400;
+}
