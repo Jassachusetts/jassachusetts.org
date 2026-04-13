@@ -28,7 +28,7 @@ gemtext_to_xhtml() {
 			"### "*) echo "\t<h3>$line</h3>" | sed 's/### //' ;;
 			"=> "*) 
 				case $line in
-					*".gif"*) echo "$line\"/>" | sed 's/=> /<img src=\"/' | sed "s/\t/\" alt=\"/" ;;
+					*".gif"*) echo "$line\"/>" | sed 's/=> /<img src=\"/' | sed "s/\t/ alt=\"/" ;;
 					*) echo "$line</a>" | sed 's/=> /<a href=\"/' | sed "s/\t/\">/" ;;
 				esac ;;
 			*) [ -z "$line" ] && echo '' || echo "\t<p>$line</p>" ;;
