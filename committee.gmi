@@ -1,8 +1,8 @@
 # Jassachusetts High Committee
 
-=> https://worldcubeassociation.org/persons/2024LUMA02  Chael Lumaban
-=> https://worldcubeassociation.org/persons/2023DEVI04  Gavin DeVine
-=> https://worldcubeassociation.org/persons/2016MADD01  Jake Maddox
-=> https://worldcubeassociation.org/persons/2022WANG39  John Wanger II
-=> https://worldcubeassociation.org/persons/2023ALBR02  Landon Albritton
-=> https://worldcubeassociation.org/persons/2018RUPP02  William Henry Ruppert V
+=> https://worldcubeassociation.org/persons/2024LUMA02	Chael Lumaban
+=> https://worldcubeassociation.org/persons/2023DEVI04	Gavin DeVine
+=> https://worldcubeassociation.org/persons/2016MADD01	Jake Maddox
+=> https://worldcubeassociation.org/persons/2022WANG39	John Wanger II
+=> https://worldcubeassociation.org/persons/2023ALBR02	Landon Albritton
+=> https://worldcubeassociation.org/persons/2018RUPP02	William Henry Ruppert V
