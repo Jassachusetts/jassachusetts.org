@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Jassachusetts Account Status</title>
+		<link>https://jassachusetts.org</link>
+		<description>Latest updates about which Jassachusetts accounts have been recovered.</description>
+		<language>en-us</language>
+		<webMaster>jassachusetts625@gmail.com (Jassachusetts)</webMaster>
+		<item>
+			<title>YouTube recovered!</title>
+			<link>https://jassachusetts.org/accountstatus.xhtml</link>
+		</item>
+		<item>
+			<title>TikTok recovered!</title>
+			<link>https://jassachusetts.org/accountstatus.xhtml</link>
+		</item>
+	</channel>
+</rss>
